@@ -1,0 +1,10 @@
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\bin\Debug\MyClicker.exe.config
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\bin\Debug\MyClicker.exe
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\bin\Debug\MyClicker.pdb
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\obj\Debug\MyClicker.csprojResolveAssemblyReference.cache
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\obj\Debug\MyClicker.Form1.resources
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\obj\Debug\MyClicker.Properties.Resources.resources
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\obj\Debug\MyClicker.csproj.GenerateResource.cache
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\obj\Debug\MyClicker.csproj.CoreCompileInputs.cache
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\obj\Debug\MyClicker.exe
+C:\Users\YanikusGG\source\repos\MyClicker\MyClicker\obj\Debug\MyClicker.pdb
